@@ -1,0 +1,1 @@
+supervisor -e html,css,js,json index.js
